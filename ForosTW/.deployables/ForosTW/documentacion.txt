@@ -1,0 +1,25 @@
+Documentacion Practica 1 Tecnologias Web 05-06 Foros TW
+
+Elementos comunes a todas las paginas:
+ - Una imagen con el nombre "comercial" del sitio web
+ - Un menu con 4 enlaces (encerrados entre dos lineas)
+ - El titulo de la pagina en letras grandes
+
+---- Formularios:
+ - los dos formularios de login estan con post para no mostrar la contraseña
+ - los otros dos (nuevo mensaje y busqueda) estan con get ya que no hados relevantes en el envio
+ - para el cuadro de texto multilinea <textarea>
+
+--- Todas las listas de foros, temas, mensajes, etc estan hechas con tablas, cada una tiene una imagen como titulo de la lista
+--- de momento las imagenes del avatar son smileis (imagenes animadas *.gif)
+--- para negrita, cursiva, etc he puesto botones, mas chulos despues al decorarlos con css (pero no me deja poner texto subrayado)
+
+-- INCOMPATIBILIDADES -- 
+- en el formulario de login de la pagina principal, las letras salen con el tipo de letra q le corresponden utilizando Explorer con Mozilla no (siempre sale Times New Roman)
+- el boton subrayado solo sale la palabra subrayada con Explorer, con Mozilla no
+- en cuanto a distintos sistemas operativos no he encontrado diferencia por el momento, siempre y cuando ambas tengan instaladas las fuentes q utilizo, que no suele ser, pero bueno.
+
+-- COMENTARIOS DEL CSS --
+los atributos mas utilizados son para los colores de las letras y de los fondos, los tipos de letra, el tamaño, negrita, cursiva, etc
+alineacion centrada para mas compatibilidad con diferentes resoluciones de tamaño de pantalla,
+atributos de posicionamiento normalmente relativo y poco mas

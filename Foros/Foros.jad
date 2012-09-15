@@ -1,0 +1,10 @@
+MIDlet-2: MIDletForos,,tw.MIDletForos
+MIDlet-Jar-Size: 100
+MIDlet-1: Foros, , tw.MIDletForos
+MIDlet-Jar-URL: Foros.jar
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Push-1: sms://:6442, tw.MIDletForos, *
+MIDlet-Version: 1.0
+MIDlet-Name: Foros
+MIDlet-Vendor: DCCIA
+MicroEdition-Profile: MIDP-2.0

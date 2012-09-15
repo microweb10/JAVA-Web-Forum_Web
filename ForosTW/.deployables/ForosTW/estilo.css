@@ -1,0 +1,46 @@
+body {background-image:url(imagenes/fondo.jpg); background-repeat:repeat;}
+#aviso {position:fixed; top:0px; left:-950px; color:#10148C;}
+#mensajeAviso{font-family:Times New Roman, Serif; font-size:16pt; font-style:italic; font-variant:small-caps;font-weight:bold;}
+#prevMensaje{background-color:#FFFFFF; text-align:center; bottom:2.5cm; position:relative;}
+#negrita {font-weight:bold;}
+p.centro {text-align:center;}
+p.tituloprincipal {font-family:forte,cooper black; color:navy; font-size:35px; font-weight:bold; text-align:center;bottom:1cm;position:relative;}
+p.loginpral {vertical-align:center;}
+p.titulopagina {font-family:forte,cooper black; color:navy; font-size:40px; font-weight:bold;text-align:center;bottom:1.8cm;position:relative;}
+p.titulopagina2 {font-family:forte,cooper black; color:navy; font-size:40px; font-weight:bold;text-align:center;bottom:1.2cm;position:relative;}
+p.ubic {color:#000080; font-family:Verdana,Arial,Sans-Serif; font-size:16pt;font-style:italic;bottom:0.5cm;position:relative;}
+p.ordentabla {text-align : center;color:#000000; font-family:Trebuchet MS, Sans-Serif; font-size:13pt; font-style:italic;bottom:2.9cm;position:relative;}
+p.tablas {vertical-align:center;bottom:3.2cm;position:relative;}
+p.tablaavisos {vertical-align:center;bottom:2cm;position:relative;}
+p.tablaresultados {vertical-align:center;bottom:2cm;position:relative;}
+p.enlacemensaje {text-align:center;bottom:3.5cm;position:relative;}
+p.usuario {text-align:center;font-family:comic sans ms; color:blue;font-size:17px;}
+p.registro {text-align:center;color:#000080;font-family:Verdana,Arial,Sans-Serif;font-size:16pt;font-style:italic;bottom:2.3cm;position:relative;}
+p.error {text-align:center; color:#000080; font-family:Verdana,Arial,Sans-Serif; font-size:20pt;font-style:normal;}
+
+a.negro {font-family:comic sans ms; color:black;font-size:25px;font-weight:bold;}
+a.verde {font-family:comic sans ms; color:teal;font-size:25px;font-weight:bold;}
+a.violeta {font-family:comic sans ms; color:purple;font-size:25px;font-weight:bold;}
+a.rojo {font-family:comic sans ms; color:red;font-size:25px;font-weight:bold;}
+a.azul {font-family:comic sans ms; color:blue;font-size:25px;font-weight:bold;}
+a.ubiclink {color:#000000; font-family:Verdana,Arial,Sans-Serif; font-size:16pt; font-weight:bold;}
+a.nuevo {color:#343434; font-family:Chiller,Gigi; font-size:18pt; font-weight:bold; left:-100px; position:relative;}
+a.resp {color:#846D8C; font-family:Chiller,Gigi; font-size:18pt; font-weight:bold; left:100px; position:relative;}
+a.linkaviso{color:black; font-size:14pt; text-decoration:none;}
+a.cerrarsesion {font-family:comic sans ms; color:black; font-size:14px; font-weight:bold; text-decoration:none;}
+
+form.nuevomensaje {text-align:center; color:#000000; font-family:Trebuchet MS, Sans-Serif; font-size:15pt; font-style:italic;bottom:2.2cm;position:relative;}
+form.busquedamensaje {text-align:center; color:#000000; font-family:Trebuchet MS, Sans-Serif; font-size:15pt; font-style:italic;bottom:2cm;position:relative;}
+form.login {bottom:2cm; position:relative;}
+form.usuario {text-align:center; color:#000000; font-family:Trebuchet MS, Sans-Serif; font-size:15pt; font-style:italic;bottom:2.2cm;position:relative;}
+
+button.neg {background-color:#D6D7EF; font-size:12pt; font-family:Arial, Sans-Serif; font-weight:bold;font-style:normal;}
+button.curs {background-color:#D6D7EF; font-size:12pt; font-family:Arial, Sans-Serif; font-style:italic;}
+button.sub {background-color:#D6D7EF; font-size:12pt; font-family:Arial, Sans-Serif; text-decoration:underline; font-style:normal;}
+button.url {background-color:#D6D7EF; font-size:12pt; font-family:Arial, Sans-Serif; font-style:normal; color:#FF0000;}
+button.prev {background-color:#D6D7EF; font-size:12pt; font-family:Arial, Sans-Serif; font-style:normal; font-weight:bold; color:#8080FF;}
+button.envmens {background-color:#FF797B; font-family:Comic Sans MS, Sans-Serif; font-size:16pt; font-variant:small-caps; font-weight:bold; font-style:normal;}
+button.buscar {background-color:#494949; font-family:Comic Sans MS, Sans-Serif; font-size:20pt; font-variant:small-caps; font-style:normal; color:#FFFFFF;}
+button.nuevo {background-color:black; font-family:Comic Sans MS, Sans-Serif; font-size:20pt; font-variant:small-caps; font-style:normal; color:white;}
+button.modificar {background-color:black; font-family:Comic Sans MS, Sans-Serif; font-size:20pt; font-variant:small-caps; font-style:normal; color:white;}
+
